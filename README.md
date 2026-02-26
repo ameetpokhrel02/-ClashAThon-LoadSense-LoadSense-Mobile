@@ -80,7 +80,7 @@ It transforms mobile usage into an active academic planning tool.
 ### 1️⃣ Clone Repo
 
 ```bash
-git clone https://github.com/your-username/LoadSense-Mobile
+git clone https://github.com/ameetpokhrel02/LoadSense-Mobile
 cd LoadSense-Mobile
 
 2️⃣ Install Dependencies
